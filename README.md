@@ -15,5 +15,6 @@ You can install the "Xavier" package. This package goes inside the person, and t
 
 ## Where do I file bugs for this?
 Follow the same procedure in "How to deploy it" section.
+
 ---
 So, what are you waiting for? Start telling (or rather "thinking") about this service to your favorite client, and see how it dramatically improves your life!
